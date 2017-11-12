@@ -9,5 +9,8 @@
   "private": false,
   "devDependencies": {
     "jest": "^21.2.1"
+  },
+  "scripts": {
+    "test": "yarn jest --watchAll"
   }
 }
