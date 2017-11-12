@@ -1,6 +1,6 @@
 {
   "name": "dead-simple-box-shadow",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A dead simple box shadow generator.",
   "main": "index.js",
   "repository": "https://github.com/LySofDev/dead-simple-box-shadow.git",
