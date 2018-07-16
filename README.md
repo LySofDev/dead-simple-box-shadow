@@ -1,4 +1,4 @@
-# node-easy-redux-gen
+# dead-simple-box-shadow
 
 
 ### Table of Contents
@@ -35,9 +35,6 @@ or
 ## Usage
 
 Import the function into your code and provide a depth, or none for default box shadow style.
-
-    # ES6
-    const getBoxShadow = require('dead-simple-box-shadow');
 
     # Webpack
     import getBoxShadow from 'dead-simple-box-shadow';
